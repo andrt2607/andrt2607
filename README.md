@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifandartaa&label=Profile%20views&color=0e75b6&style=flat" alt="alifandartaa" /> </p>
 
-- 🌱 I’m currently learning **Flutter, ReactJS, Native Android, Java**
+- 🌱 I’m currently learning **Flutter, ReactJS, Native Android, Back End Java Spring**
 
 - 📫 How to reach me **alifandarta26@gmail.com**
 
