@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Alif Andarta Al Falah</h1>
-<h3 align="center">A junior mobile developer from Indonesia</h3>
+<h3 align="center">A fullstack developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifandartaa&label=Profile%20views&color=0e75b6&style=flat" alt="alifandartaa" /> </p>
 
-- 🌱 I’m currently learning **Flutter, ReactJS, Native Android, Back End Java Spring**
+- 🌱 I’m currently learning **Back End -> Java Spring, Express, Go**
 
 - 📫 How to reach me **alifandarta26@gmail.com**
 
-- ⚡ Fun fact **I like swim, badminton and game Dota2**
+- ⚡ Fun fact **I like badminton, swim and valorant**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alifandarta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alifandarta_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alif-andarta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alif-andarta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alflh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alif-andarta" height="30" width="40" /></a>
 <a href="https://instagram.com/alifandarta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifandarta_" height="30" width="40" /></a>
 <a href="https://discord.gg/#3615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3615" height="30" width="40" /></a>
 </p>
