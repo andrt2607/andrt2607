@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifandartaa&label=Profile%20views&color=0e75b6&style=flat" alt="alifandartaa" /> </p>
 
-- 🌱 I’m currently learning **Back End -> Go** and **NEXT JS**
+- 🌱 I’m currently learning **Back End -> Go**
 
 - 📫 How to reach me **alifandarta26@gmail.com**
 
-- ⚡ Fun fact **I like badminton, swim and valorant**
+- ⚡ Fun fact **I like badminton as my main sport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
